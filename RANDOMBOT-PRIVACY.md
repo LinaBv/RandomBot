@@ -1,25 +1,25 @@
-# Política de privacidad
+#Política de privacidad de Random Dev
+En Random Dev valoramos la privacidad y la seguridad de los datos personales de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información que recibimos de los usuarios de nuestros servicios, incluyendo nuestro bot de Discord y otros servicios ofrecidos por Random Dev.
 
-El uso de esta aplicación ("Bot") en un servidor requiere la recopilación de algunos datos específicos del usuario ("Data"). Los datos recopilados incluyen, entre otros, los valores de ID de usuario de Discord. El uso del Bot se considera un acuerdo con los términos de esta política.
+#Recopilación de datos
+Para poder ofrecer nuestros servicios, recopilamos cierta información de nuestros usuarios, que puede incluir, entre otros, los siguientes datos personales:
 
-## Acceso a datos
+Nombre de usuario de Discord
+Identificador de usuario de Discord (ID)
+Información de actividad en el servidor
+Uso de datos
+Los datos que recopilamos se utilizan únicamente para ofrecer y mejorar nuestros servicios, y en ningún caso se venden o comparten con terceros, excepto en los casos en que la ley lo exige o lo permite.
 
-El acceso a los datos solo está permitido a los desarrolladores de Bot y solo en el ámbito requerido para el desarrollo, prueba e implementación de funciones para Bot. Los datos no se venden, proporcionan ni comparten con ningún tercero, excepto cuando lo exija la ley o un acuerdo de Términos de servicio.
+#Protección de datos
+Tomamos medidas de seguridad apropiadas para proteger los datos personales de nuestros usuarios contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Los datos se almacenan en servidores seguros y se cifran para mayor protección.
 
-## Almacenamiento de datos
+#Derechos de los usuarios
+Los usuarios tienen el derecho de solicitar acceso, rectificación, eliminación, restricción y portabilidad de sus datos personales. Para ejercer estos derechos, el usuario puede contactarnos a través de los medios que proporcionamos en nuestros servicios.
 
-Los datos se almacenan en una base de datos MongoDB. La base de datos está protegida para evitar el acceso externo; sin embargo, no se brinda ninguna garantía y los propietarios del Bot no asumen ninguna responsabilidad por la violación no intencional o maliciosa de los Datos. En caso de acceso no autorizado a los Datos, los usuarios serán notificados a través de la aplicación cliente de Discord.
+#Menores de edad
+Nuestros servicios no están dirigidos a menores de 13 años ni a la edad de consentimiento legal en el país de residencia del usuario. No recopilamos intencionalmente información de usuarios menores de edad. Si nos damos cuenta de que hemos recopilado información personal de un usuario menor de edad, tomaremos medidas para eliminarla de nuestros registros.
 
-## Derechos de los usuarios
+Cambios en la política de privacidad
+Podemos actualizar esta política de privacidad de vez en cuando. Los cambios se publicarán en nuestros servicios y serán efectivos a partir de la fecha de publicación. Los usuarios deben revisar esta política de privacidad periódicamente para estar informados sobre cualquier cambio.
 
-En cualquier momento, tiene derecho a solicitar ver los Datos relacionados con su cuenta de Discord. Tiene derecho a solicitar la eliminación de Datos relevantes.
-
-Contamos con herramientas para ello, puede solicitar sus datos almacenados mediante el comando /data, y eliminarlos completamente de igual manera.
-
-## Usuarios menores de edad
-
-El uso del Bot no está permitido para menores de 13 años o menores de la edad de consentimiento legal para su país. Esto cumple con los [Términos de servicio de Discord](https://discord.com/terms). No se almacenará información deliberadamente de un usuario menor de edad. Si se descubre que un usuario es menor de edad, tomaremos todas las medidas necesarias para eliminar los datos almacenados.
-
-## Preguntas
-
-Si tiene alguna pregunta o le preocupa qué datos podrían estar almacenados en su cuenta, comuníquese con `Lina OwO#4326`. Para obtener más información, consulte los [Términos de servicio de Discord](https://discord.com/terms).
+Si tiene alguna pregunta o inquietud sobre nuestra política de privacidad, puede contactarnos a través de los medios que proporcionamos en nuestros servicios.
